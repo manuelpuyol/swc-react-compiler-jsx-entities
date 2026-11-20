@@ -1,0 +1,12 @@
+{
+  "name": "swc-react-compiler-nbsp-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@swc/core": "1.16.22",
+    "oxc-transform": "0.158.0"
+  }
+}
